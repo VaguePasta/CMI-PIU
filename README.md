@@ -13,3 +13,5 @@
  - Model Selection and Optimization: XGBoost – an ensemble model based on decision trees – which improved accuracy and reduced overfitting through boosting and regularization techniques.
 
  - Actigraphy Data: Only included actigraphy data (Enmo, light, angle Z) when there was a clear correlation, using aggregated statistics (mean, median, and standard deviation) to prevent unnecessary complexity without significant improvements.
+
+ A more detailed explanation is in the notebook
